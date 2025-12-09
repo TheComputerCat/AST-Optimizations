@@ -1,0 +1,7 @@
+2 + 3 * 4
+x * 2 + y
+x * 0 + y
+x * 2 + y ^ 2
+true || (x > 5)
+"test@example.com" ~ ("^[a-z]+@[a-z]" + "+\.[a-z]+$")
+max(x, y) + sqrt(16)
